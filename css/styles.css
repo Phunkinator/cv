@@ -23,3 +23,8 @@ color: #66BFBF
 .world:hover {
 color: gold;
 }
+
+.circular {
+  background-color: gold;
+  border-radius: 10%;
+}
